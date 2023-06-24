@@ -45,7 +45,8 @@ The project is for managed the users i.e. Fetch, create, updat, delete users
 ## Roadmap
 
 Designing this project with beginners in mind.
-- V1 = Creating Server and write CRUD api without using DB
-- V2 = Used Database for created CRUD API's.
-- V3 = Created Middlerware
-- V4 = More improvement....
+- V1 = Creating Server and writing CRUD api without using DB
+- V2 = Docerize the app.
+- V3 = Used Database for creating CRUD API's.
+- V4 = Created Middleware
+- V5 = More improvement....
